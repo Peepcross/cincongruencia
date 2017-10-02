@@ -4,8 +4,11 @@
 
 ##  JVCI Global Ocean Sampling Expedition, Dirty Rock
 
-¿Cuántas secuencias fueron subidas?  120,671 sequences
+¿Cuántas secuencias fueron subidas?  
 
-¿Qué tipo de plataforma de secuenciamiento fue usada para producir estos datos? DRISEE
+Se subieron 120,671 secuencias.
+
+¿Qué tipo de plataforma de secuenciamiento fue usada para producir estos datos? 
+Se uso la plataforma DRISEE.
 
 ¿Cuántas secuencias pasaron el control de calidad? ¿A qué crees que se refiere esto?

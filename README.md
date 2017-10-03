@@ -40,11 +40,11 @@
 
 ¿Cuántas secuencias mapearon en contra de Proteobacteria? 
 
-Se mapearon 26387 secuencias en contra de proteobacteria.
+`Se mapearon 26387 secuencias en contra de proteobacteria.`
 
 ¿Cuántas secuencias de Salmonella ( Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?
 
-Se identificaron 77 secuencias correspondientes a Salmonella. 
+`Se identificaron 77 secuencias correspondientes a Salmonella.` 
 
 
 

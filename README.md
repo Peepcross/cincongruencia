@@ -20,6 +20,10 @@
 
 `Estan disponibles 236 metagenomas distintos para este bioma en MG-RAST y para la expedicion en especifico solo 87.`
 
+¿Cuántas reads fueron asignadas a eucariontes según MG-RAST?
+
+`Se asignaron 20128 reads a eucariontes.
+
 ¿Cuál es el filo (Phylum) más abundante en la muestra?
 
 `El mas abundante es Cyanobacteria con un 29.56% (39,919)`
